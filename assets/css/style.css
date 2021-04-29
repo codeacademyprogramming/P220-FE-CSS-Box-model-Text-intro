@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper {
+    box-sizing: border-box;
+    width: 300px; /* actual width 360px */
+    height: 300px; /* actual height 360px */
+    background-color: lightblue;
+    color: lightcoral;
+    /* border: 30px solid black; */
+    padding: 30px;
+    /* margin-top: 100px; */
+    /* margin-right: 35px; */
+    /* margin-bottom: 45px; */
+    /* margin-left: 50px; */
+    /* margin: 100px 35px 45px 50px; */
+    /* margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 100px; */
+    /* margin: 50px 100px; */
+    /* margin: 10px 20px 30px; */ /* first value is for - top, second value is for left and right, third value is for bottom*/
+    /* padding: 10px; */
+    /* padding: 50px 100px; */
+    /* padding: 50px 30px 100px; */
+    /* padding: 10px 0 20px 30px; */
+    /* margin-left: 10px; */
+    /* margin: 0 10px; */
+    /* border-width: 10px; */
+    /* border-style: inset; */
+    /* border-color: red; */
+    /* border: 10px inset red; */
+    /* border-top-left-radius: 100px; */
+    /* border-top-right-radius: 120px; */
+    /* border-bottom-right-radius: 130px; */
+    /* border-bottom-left-radius: 150px; */
+    /* clip-path: polygon(0% 15%, 15% 29%, 15% 0%, 85% 0%, 85% 15%, 100% 15%, 100% 85%, 85% 85%, 85% 100%, 15% 100%, 15% 85%, 0% 85%); */
+    /* border-bottom: 20px solid black; */
+    margin: auto;
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+}
+
+.inline-example {
+    display: inline;
+}
+
+.block-example {
+    display: inline-block;
+    width: 300px;
+    background-color: teal;
+    color: white;
+}

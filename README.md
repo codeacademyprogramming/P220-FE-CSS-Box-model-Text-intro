@@ -10,5 +10,11 @@
 
 * https://www.w3schools.com/csS/css_text.asp
 
+* https://www.digitalocean.com/community/tutorials/css-display-inline-vs-inline-block
+
+* https://www.samanthaming.com/pictorials/css-inline-vs-inlineblock-vs-block/
+
+* https://css-tricks.com/when-do-you-use-inline-block/
+
 ### Burdaki resurs linklər ana səhifələridir həmin resursların, içində olan sublinkləri də ayrı-ayrılıqda oxuyun mütləq. Assignmenti sonradan gonderecem
 
